@@ -8,7 +8,7 @@ param(
 )
 
 # Define source and destination paths
-$SourcePath = "C:\Users\M\AppData\Roaming\Blender Foundation\Blender\4.5\scripts\presets\interface_theme"
+$SourcePath = "C:\Users\M\AppData\Roaming\Blender Foundation\Blender\5.0\scripts\presets\interface_theme"
 $RetrieveDir = Join-Path (Get-Location) "retrieve"
 
 Write-Host "Requin Blue Theme File Copy Script" -ForegroundColor Cyan
