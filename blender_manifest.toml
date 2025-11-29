@@ -11,7 +11,7 @@ maintainer = "Muhamad Wicaksono <hirvi.3d@gmail.com>"
 type = "theme"
 
 # # Optional: link to documentation, support, source files, etc
-website = "https://github.com/MozzarellaARC/requin_blue"
+website = "https://github.com/MozzarellaARC/requin-blue"
 
 # # Optional: tag list defined by Blender and server, see:
 # # https://docs.blender.org/manual/en/dev/advanced/extensions/tags.html
